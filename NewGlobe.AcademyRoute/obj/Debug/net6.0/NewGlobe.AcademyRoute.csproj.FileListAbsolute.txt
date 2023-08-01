@@ -1,0 +1,15 @@
+C:\Users\Burak.Celik\source\training\NewGlobe.AcademyRoute\NewGlobe.AcademyRoute\bin\Debug\net6.0\NewGlobe.AcademyRoute.exe
+C:\Users\Burak.Celik\source\training\NewGlobe.AcademyRoute\NewGlobe.AcademyRoute\bin\Debug\net6.0\NewGlobe.AcademyRoute.deps.json
+C:\Users\Burak.Celik\source\training\NewGlobe.AcademyRoute\NewGlobe.AcademyRoute\bin\Debug\net6.0\NewGlobe.AcademyRoute.runtimeconfig.json
+C:\Users\Burak.Celik\source\training\NewGlobe.AcademyRoute\NewGlobe.AcademyRoute\bin\Debug\net6.0\NewGlobe.AcademyRoute.dll
+C:\Users\Burak.Celik\source\training\NewGlobe.AcademyRoute\NewGlobe.AcademyRoute\bin\Debug\net6.0\NewGlobe.AcademyRoute.pdb
+C:\Users\Burak.Celik\source\training\NewGlobe.AcademyRoute\NewGlobe.AcademyRoute\obj\Debug\net6.0\NewGlobe.AcademyRoute.csproj.AssemblyReference.cache
+C:\Users\Burak.Celik\source\training\NewGlobe.AcademyRoute\NewGlobe.AcademyRoute\obj\Debug\net6.0\NewGlobe.AcademyRoute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak.Celik\source\training\NewGlobe.AcademyRoute\NewGlobe.AcademyRoute\obj\Debug\net6.0\NewGlobe.AcademyRoute.AssemblyInfoInputs.cache
+C:\Users\Burak.Celik\source\training\NewGlobe.AcademyRoute\NewGlobe.AcademyRoute\obj\Debug\net6.0\NewGlobe.AcademyRoute.AssemblyInfo.cs
+C:\Users\Burak.Celik\source\training\NewGlobe.AcademyRoute\NewGlobe.AcademyRoute\obj\Debug\net6.0\NewGlobe.AcademyRoute.csproj.CoreCompileInputs.cache
+C:\Users\Burak.Celik\source\training\NewGlobe.AcademyRoute\NewGlobe.AcademyRoute\obj\Debug\net6.0\NewGlobe.AcademyRoute.dll
+C:\Users\Burak.Celik\source\training\NewGlobe.AcademyRoute\NewGlobe.AcademyRoute\obj\Debug\net6.0\refint\NewGlobe.AcademyRoute.dll
+C:\Users\Burak.Celik\source\training\NewGlobe.AcademyRoute\NewGlobe.AcademyRoute\obj\Debug\net6.0\NewGlobe.AcademyRoute.pdb
+C:\Users\Burak.Celik\source\training\NewGlobe.AcademyRoute\NewGlobe.AcademyRoute\obj\Debug\net6.0\NewGlobe.AcademyRoute.genruntimeconfig.cache
+C:\Users\Burak.Celik\source\training\NewGlobe.AcademyRoute\NewGlobe.AcademyRoute\obj\Debug\net6.0\ref\NewGlobe.AcademyRoute.dll
