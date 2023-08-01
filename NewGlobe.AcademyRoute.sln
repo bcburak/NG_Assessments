@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewGlobe.AcademyRoute", "NewGlobe.AcademyRoute\NewGlobe.AcademyRoute.csproj", "{6CED1A1D-EC11-4519-87AD-252EFD063316}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewGlobe.AcademyRoute", "NewGlobe.AcademyRoute\NewGlobe.AcademyRoute.csproj", "{6CED1A1D-EC11-4519-87AD-252EFD063316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewGlobe.AcademyRoute.Test", "NewGlobe.AcademyRoute.Test\NewGlobe.AcademyRoute.Test.csproj", "{1F779949-0172-4BD5-9F3F-FE160ECE43C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6CED1A1D-EC11-4519-87AD-252EFD063316}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CED1A1D-EC11-4519-87AD-252EFD063316}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CED1A1D-EC11-4519-87AD-252EFD063316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F779949-0172-4BD5-9F3F-FE160ECE43C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F779949-0172-4BD5-9F3F-FE160ECE43C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F779949-0172-4BD5-9F3F-FE160ECE43C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F779949-0172-4BD5-9F3F-FE160ECE43C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
